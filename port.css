@@ -1,0 +1,150 @@
+.photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 141px;
+    margin-left: 35px;
+}
+
+.card1{
+    display: flex;
+    margin-top: 16px;
+    margin-left: 4px;
+    /*background-color:#f7efef;*/
+    background-image: url("https://www.shutterstock.com/image-illustration/wide-extradark-black-geometric-background-260nw-1919361122.jpg");
+
+}
+
+.name{
+    margin: 95px 430px 0px 50px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.linkedin{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    margin: 85px 0px 0px 0px;
+   
+}
+
+.insta{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    margin: 85px 0px 0px 25px;
+}
+
+.git{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    margin: 85px 0px 0px 25px;
+}
+.about{
+    height: 50px;
+    width: 55px;
+    border-radius: 15px;
+    margin: 85px 0px 0px 25px;
+}
+.project{
+    height: 50px;
+    width: 55px;
+    border-radius: 15px;
+    margin: 85px 0px 0px 25px;
+}
+.home{
+    height: 50px;
+    width: 55px;
+    border-radius: 15px;
+}
+.card1 p {
+    margin-top: 138px;
+    margin-bottom: 5px;
+    margin-left: -52px;
+    font-family: 'Bree Serif', serif;
+    color: whitesmoke;
+}
+.img2{
+    height: 30px;
+    width: 30px;
+    margin: 5px 10px 10px 10px;
+}
+.footer{
+    
+    padding: 10px;
+    color: azure;
+    /*background-color:#f7efef;*/
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJkvOllwF4HL7iJNDe9RMNqPxcs9dR89yjg&usqp=CAU");
+}
+.color{
+    color: blanchedalmond;
+}
+.bgimage123{
+    background-color: powderblue;
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+}
+.card2 {
+   padding: 20px;
+   margin-bottom: 30px;
+    font-family: 'Bree Serif', serif;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.headingbody{
+    text-decoration: overline underline;
+}
+
+.bgimage456{
+    background-color:darkcyan;
+    background-size: cover;
+    height: 50vh;
+    padding: 50px;
+}
+.images{
+    margin: 10px;
+    padding: 15px;
+    
+}
+.card3{
+    padding: 20px;
+    font-family: 'Bree Serif', serif;
+    background-color:darkslategrey;
+    border-radius: 20px;
+}
+.headinghhh{
+    color: azure;
+}
+.bggg12{
+    background-image: url('https://res.cloudinary.com/dwzvjytaj/image/upload/v1680012994/ff/windows-11-stock-purple-abstract-black-background-amoled-3840x2400-9056_vng2ql.jpg');
+    background-size: cover;
+    height: 150vh;
+}
+.n12{
+    color: aliceblue;
+    font-family: Bree serif;
+    text-decoration:underline yellowgreen;
+}
+.n13{
+    font-family: Bree serif;
+    text-decoration:underline rgb(113, 119, 101);
+}
+.card4{
+    padding: 30px;
+    font-family: 'Bree Serif', serif;
+    background-color:rgb(149, 156, 156);
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.phone{
+    height: 250px;
+    width: 300px;
+    margin-left: 500px;
+}
+.buttonnss{
+    padding: 10px;
+    margin: 10px;
+}
